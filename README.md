@@ -6,7 +6,7 @@
 
 # Techstack : 
 ### Dart ![alt text](https://upload.wikimedia.org/wikipedia/commons/f/fe/Dart_programming_language_logo.svg)
-### Flutter
+### Flutter ![alt text](https://pixlok.com/wp-content/uploads/2021/05/flutter-logo-768x768.jpg)
 ### Firebase
 ### JSON
 ### Solidity
