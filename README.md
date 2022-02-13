@@ -1,16 +1,27 @@
-# project1
+# Amity App - find peace and purpose!
+# 
 
-A new Flutter project.
+### what is Amity app ?
 
-## Getting Started
+Amity app is an application built to address people facing mental health issues.  It allows people to explore it’s various features like guided breathing, pomodoro for focus and a small read of good thought everytime you visit the app! The main feature is, get rewarded with “Amity tokens” once you complete the activities on regular basis!
+### what are Amity tokens?
+$AMITY is a simple ERC20 token made on Polygon.
 
-This project is a starting point for a Flutter application.
+### But why Amity app?
+Amity app is not just the place to relax your inner self but it try to catches more user attraction and ask them to perform activities as mentioned earlier and earn the Amity Token!
 
-A few resources to get you started if this is your first Flutter project:
+### What problem it solves? 
+We have many mental health apps where people install them and forget to use. So to solve this we have come up with this unique solution! Perform the relaxing activities and earn the token!
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Challenges and Accomplishment
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+It took us time to figure out the first time implementations of web3 in app development and although the app is not fully fledged, it can bring a change! Lead a healthy, sane life and earn rewards for your well being!   
+
+### what’s next with Amity app?
+
+The next step is to make the app features more functional. 
+
+# Techstack : 
+## Dart, Flutter, Firebase, Json, Solidity
+
+
