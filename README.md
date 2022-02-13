@@ -4,6 +4,18 @@
 
 ## Youtube link - https://youtu.be/eq8d3qPSazQ
 
+# Techstack : 
+### Dart
+
+###Flutter
+
+###Firebase,
+###JSON
+
+###Solidity
+
+###Moralis Speednodes
+
 ### What is Amity app ?
 
 Amity app is an application built to address people facing mental health issues.  It allows people to explore it’s various features like guided breathing, pomodoro for focus and a small read of good thought everytime you visit the app! The main feature is, get rewarded with “Amity tokens” once you complete the activities on regular basis!
@@ -24,7 +36,6 @@ It took us time to figure out the first time implementations of web3 in app deve
 
 The next step is to make the app features more functional. 
 
-# Techstack : 
-## Dart, Flutter, Firebase, JSON, Solidity, Moralis Speednodes
+
 
 
