@@ -1,7 +1,10 @@
 ## Amity App - find peace and purpose!
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/eq8d3qPSazQ/0.jpg)](https://www.youtube.com/watch?v=eq8d3qPSazQ)
 
 ## Youtube link - https://youtu.be/eq8d3qPSazQ
+
+---
 
 # Techstack : 
 ### Dart 
@@ -16,6 +19,8 @@
 ![alt text](https://avantrio.xyz/blog/wp-content/uploads/2020/02/solidity-nedir.png)
 ### Moralis Speednodes 
 ![alt text](https://moralis.io/wp-content/uploads/2021/05/moralisWhiteLogo.svg)
+
+---
 
 ### What is Amity app ?
 
