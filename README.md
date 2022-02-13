@@ -14,9 +14,9 @@
 ### JSON 
 ![alt text](https://www.vectorlogo.zone/logos/json/json-ar21.svg)
 ### Solidity 
-### ![alt text](https://www.logo.wine/a/logo/Solidity/Solidity-Logo.wine.svg)
+![alt text](https://avantrio.xyz/blog/wp-content/uploads/2020/02/solidity-nedir.png)
 ### Moralis Speednodes 
-### ![alt text](https://moralis.io/wp-content/uploads/2021/05/moralisWhiteLogo.svg)
+![alt text](https://moralis.io/wp-content/uploads/2021/05/moralisWhiteLogo.svg)
 
 ### What is Amity app ?
 
