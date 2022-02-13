@@ -5,12 +5,12 @@
 ## Youtube link - https://youtu.be/eq8d3qPSazQ
 
 # Techstack : 
-### Dart ![alt text](https://upload.wikimedia.org/wikipedia/commons/f/fe/Dart_programming_language_logo.svg)
-### Flutter ![alt text](https://pixlok.com/images/flutter-logo-png-image-free-download)
-### Firebase
-### JSON
-### Solidity
-### Moralis Speednodes
+### Dart ![alt text](https://www.vectorlogo.zone/logos/dartlang/dartlang-official.svg)
+### Flutter ![alt text](https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg)
+### Firebase ![alt text](https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg)
+### JSON ![alt text](https://www.vectorlogo.zone/logos/json/json-ar21.svg)
+### Solidity ![alt text](https://www.logo.wine/a/logo/Solidity/Solidity-Logo.wine.svg)
+### Moralis Speednodes ![alt text](https://moralis.io/wp-content/uploads/2021/05/moralisWhiteLogo.svg)
 
 ### What is Amity app ?
 
