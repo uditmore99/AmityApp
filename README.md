@@ -6,15 +6,11 @@
 
 # Techstack : 
 ### Dart
-
-###Flutter
-
-###Firebase,
-###JSON
-
-###Solidity
-
-###Moralis Speednodes
+### Flutter
+### Firebase
+### JSON
+### Solidity
+### Moralis Speednodes
 
 ### What is Amity app ?
 
