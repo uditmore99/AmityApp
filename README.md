@@ -1,4 +1,7 @@
 ## Amity App - find peace and purpose!
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/eq8d3qPSazQ/0.jpg)](https://www.youtube.com/watch?v=eq8d3qPSazQ)
+
 ## Youtube link - https://youtu.be/eq8d3qPSazQ
 
 ### What is Amity app ?
