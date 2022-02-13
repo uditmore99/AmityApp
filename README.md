@@ -1,10 +1,10 @@
-# Amity App - find peace and purpose!
-# 
+## Amity App - find peace and purpose!
+## Youtube link - https://youtu.be/eq8d3qPSazQ
 
-### what is Amity app ?
+### What is Amity app ?
 
 Amity app is an application built to address people facing mental health issues.  It allows people to explore it’s various features like guided breathing, pomodoro for focus and a small read of good thought everytime you visit the app! The main feature is, get rewarded with “Amity tokens” once you complete the activities on regular basis!
-### what are Amity tokens?
+### What are Amity tokens?
 $AMITY is a simple ERC20 token made on Polygon.
 
 ### But why Amity app?
@@ -17,7 +17,7 @@ We have many mental health apps where people install them and forget to use. So 
 
 It took us time to figure out the first time implementations of web3 in app development and although the app is not fully fledged, it can bring a change! Lead a healthy, sane life and earn rewards for your well being!   
 
-### what’s next with Amity app?
+### What’s next with Amity app?
 
 The next step is to make the app features more functional. 
 
