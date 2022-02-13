@@ -22,6 +22,12 @@
 
 ---
 
+# Screenshots:
+
+![image](https://lh3.googleusercontent.com/fife/AAWUweWh2VZvNk18HRhR0H4F7INRrnsxc28gef0YHcRGnhQPfQWCp6T-uHakj4o7o49fj7ouqR67vadmEusrt-pCXTLkGvQcWS4zT63Nx5sVGMyUkq8YsrnZqJsjm3r3TkROVo7GmsXvO70i6dJq288qGtXlM2pm5eMpDCdLCLRJBCnQQTIhFzdqGjjIbkkUKr5L6vSiSgtnz_AeObLRwF7Xo_2wUlaus38l4S1tUBj3h2YzcAI9G09C0ImpKGtoPcEvJ-e_qNoGpyuHuXUB3gSfHugZygsLkCvn_g-NkLhFssWWxiUjvhKGKwhti6Y7wlpwi6eK4l93zL5v3Tb9LuOnlBCdpIbElyKeaYuaJAPutgA9OdbWx0LJeiZRqEVWvqC89XYEJfIvuDdbM4GZeO1zcGdfZr-KGUosxV-0c0rKH7Rm_jmf16rWBQGguadOY6_vqdML6KjTadWEaA7q4AqN-ScLkUz7TRhSDtROgWjeTarP1XxJJXBtD_Sc90xeWcc5LVxuBiK_2V4bBJdDpl4lQrAu63Fl_5W11lIy2y7N_ufHV3QcDXLSOqaMisZG-nX-GEdxk0Qp-P5GX62aLiolWe4h5tbWSklB5Y0LY4nLLQWJyMnJLDewW62LDCsIJCps4E4Cn_VBiWnXR14rZ4e8-Y_4WY_X25X35WxD-5ERvPorLGaNMw8YDopmVakf8-OLmj9bQFnk0RcqMCAKVOeYaPsw-npFaP16dfM=w1920-h896-ft) ![image](https://lh5.googleusercontent.com/GRjpkzsh41meBEyKmZGrUWOwKpsi8dWw4UFLfRIzGEXXQ6QuLV_-FJhRdEV30alWYklrA3ouzOFyEwBcN10j=w1920-h896)
+
+---
+
 ### What is Amity app ?
 
 Amity app is an application built to address people facing mental health issues.  It allows people to explore it’s various features like guided breathing, pomodoro for focus and a small read of good thought everytime you visit the app! The main feature is, get rewarded with “Amity tokens” once you complete the activities on regular basis!
