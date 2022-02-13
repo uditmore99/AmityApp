@@ -22,6 +22,6 @@ It took us time to figure out the first time implementations of web3 in app deve
 The next step is to make the app features more functional. 
 
 # Techstack : 
-## Dart, Flutter, Firebase, Json, Solidity
+## Dart, Flutter, Firebase, JSON, Solidity, Moralis Speednodes
 
 
