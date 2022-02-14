@@ -7,6 +7,8 @@
 ---
 
 # Techstack : 
+### Polygon
+![alt text](https://polygon.technology/_nuxt/img/polygon-logo.99647ca.svg)
 ### Dart 
 ![alt text](https://www.vectorlogo.zone/logos/dartlang/dartlang-official.svg)
 ### Flutter 
