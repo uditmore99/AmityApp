@@ -3,8 +3,9 @@
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/eq8d3qPSazQ/0.jpg)](https://www.youtube.com/watch?v=eq8d3qPSazQ)
 
 ### Contract Address: 0x2f706C42B3f33fD7E88a2d078d58d0eD9A613b6b
+NOTE: You can check all the transactions on [Polygonscan Mumbai](https://mumbai.polygonscan.com/address/0x2f706C42B3f33fD7E88a2d078d58d0eD9A613b6b)
 
-## Youtube link - https://youtu.be/eq8d3qPSazQ
+## Youtube link - [Here](https://youtu.be/eq8d3qPSazQ)
 
 ---
 
